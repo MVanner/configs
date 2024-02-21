@@ -1,6 +1,6 @@
 [window]
 opacity = 0.8
-decorations = "Full"
+decorations = "None"
 
 [font]
 size = 14.0
