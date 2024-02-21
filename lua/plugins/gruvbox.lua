@@ -1,6 +1,6 @@
 return {
 	"morhetz/gruvbox",
-	lazy = false,
+	lazy = true,
 	priority = 1000,
 	config = function()
 		vim.cmd("colorscheme gruvbox")
