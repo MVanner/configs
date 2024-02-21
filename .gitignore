@@ -1,0 +1,12 @@
+nvim.back/
+zed/
+xbuild/
+Microsoft\\VisualStudio Services/*
+Micro/
+JetBrains/
+iterm2/
+NuGet/
+htop/
+configstore/
+efm-langserver/
+sourcery/
